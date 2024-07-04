@@ -31,4 +31,7 @@ download the latest ones of course
 ![image](https://github.com/Arskan17/Linux-programs-how_to_install/assets/75216911/909566c0-91f2-4e86-9ec8-c9ad74f581d7)
 
 
+#### I can confirm it works
+
+![image](https://github.com/Arskan17/Linux-programs-how_to_install/assets/75216911/0575334b-d46d-406f-a894-19748328a405)
 
