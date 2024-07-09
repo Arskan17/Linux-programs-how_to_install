@@ -25,7 +25,7 @@ sudo apt install pgadmin4
 
 
 #
-#### some guy on the [linuxmint-forum](https://forums.linuxmint.com/viewtopic.php?t=393497) told to donload these [packages](https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/jammy/dists/pgadmin4/main/binary-amd64/) and install one after the other.
+#### some guy on the [linuxmint-forum](https://forums.linuxmint.com/viewtopic.php?t=393497) told to download these [packages](https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/jammy/dists/pgadmin4/main/binary-amd64/) and install one after the other.
 download the latest ones of course
 
 ![image](https://github.com/Arskan17/Linux-programs-how_to_install/assets/75216911/909566c0-91f2-4e86-9ec8-c9ad74f581d7)
