@@ -1,4 +1,4 @@
-# Linux-programs-how_to_install
+# Linux-Programs_&&_how_to_install_them
 
 Since I always seem to forget how I installed programs, I need to document the setup for the future. 
 
